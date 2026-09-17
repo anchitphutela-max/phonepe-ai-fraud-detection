@@ -68,8 +68,8 @@ A `check_transaction()` helper function lets you test any custom transaction liv
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/anchitphutela-max/phonepe-ai-fraud-detection/
+   cd phonepe_fraud_detection_model
    ```
 2. (Optional) Create a virtual environment:
    ```bash
